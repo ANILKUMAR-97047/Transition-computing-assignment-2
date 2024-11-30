@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;  
+  }
+  th, td {
+    border: 2px solid #cf2f2f;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #91e493;
+  }
+  .passed {
+    color: green;
+  }
+  .failed {
+    color: red;
+  }
+  
